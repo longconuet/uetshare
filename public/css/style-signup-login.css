@@ -1,0 +1,30 @@
+#loginbox, #signupbox{
+    margin-top: 80px;
+}
+.panel-title{
+    text-align: center;
+    font-size: 140%;
+}
+#signupform{
+    padding-left: 22px;
+}
+.panel-body{
+    margin-top: 20px;
+}
+.input-group{
+    margin-bottom: 25px;
+}
+#login-btn , #signup-btn {
+    margin-top: 10px;
+}
+#login-btn > button{
+    width: 80%;
+    margin-left: 10%;
+}
+#signup-btn > button{
+    width: 50%;
+    margin-left: 25%;
+}
+.validation-message {
+    color: red;
+}
